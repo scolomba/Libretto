@@ -2,7 +2,7 @@ package it.toscana.estar.libretto.model;
 
 import java.time.LocalDate;
 
-public class TestEsame {
+public class TestEsame { 
 
 	public static void main(String[] args) {
 		Esame tdp = new Esame("03FYZ","Tecniche di programmazione", "Fulvio Corno");
