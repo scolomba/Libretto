@@ -30,6 +30,7 @@ public class Model {
 	 * Ricerca se esiste un esame con il codice specificato
 	 * Se esiste lo restituisce
 	 * altrimenti restituisce null
+	 * indexof si basa su equals di esami (confronta su codice)
 	 * @param codice
 	 * @return l'esame trovato, oppure null se non trovato
 	 */
